@@ -2,4 +2,4 @@ classes = 1
 train  = /content/darknet/custom_cfg/train.txt
 valid  =/content/darknet/custom_cfg/test.txt
 names = /content/darknet/custom_cfg/classes.names
-backup = /content/gdrive/MyDrive/ColabNotebooks/
+backup = /content/darknet/custom_cfg/weights/
