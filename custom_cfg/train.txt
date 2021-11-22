@@ -5,7 +5,6 @@
 /content/darknet/data/labels/20211112_174058.jpg
 /content/darknet/data/labels/20211112_174620.jpg
 /content/darknet/data/labels/20211112_174529.jpg
-/content/darknet/data/labels/20211112_174004.jpg
 /content/darknet/data/labels/20211112_174245.jpg
 /content/darknet/data/labels/20211112_174546.jpg
 /content/darknet/data/labels/20211112_174318.jpg
